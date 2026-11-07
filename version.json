@@ -1,0 +1,13 @@
+{
+  "contractHash": "b4d7c2e1",
+  "versionName": "1.0.8",
+  "versionCode": 9,
+  "apkDownloadUrl": "https://github.com/10xvick/cinedeck-releases/releases/latest/download/app-release.apk",
+  "releaseNotes": [
+    "Native in-app self-updater support with automated installation.",
+    "Hardware-accelerated native playback stability enhancements.",
+    "Improved audio sub-track extraction and subtitle synchronization.",
+    "Dynamic audio focus and TV sleep timer enhancements."
+  ],
+  "publishedAt": "2026-11-07T05:30:00Z"
+}
