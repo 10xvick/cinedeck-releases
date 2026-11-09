@@ -1,12 +1,12 @@
 {
-  "contractHash": "f144235c",
-  "versionName": "1.0.71",
-  "versionCode": 71,
-  "apkDownloadUrl": "https://github.com/10xvick/cinedeck-releases/releases/download/v1.0.71/app-release.apk",
+  "contractHash": "46aa5ba9",
+  "versionName": "1.0.72",
+  "versionCode": 72,
+  "apkDownloadUrl": "https://github.com/10xvick/cinedeck-releases/releases/download/v1.0.72/app-release.apk",
   "releaseNotes": [
-    "Automated release from commit f144235c",
+    "Automated release from commit 46aa5ba9",
     "Native hardware-accelerated playback and stability enhancements.",
     "Dynamic audio focus and power management improvements."
   ],
-  "publishedAt": "2026-11-09T16:54:02Z"
+  "publishedAt": "2026-11-09T17:14:26Z"
 }
