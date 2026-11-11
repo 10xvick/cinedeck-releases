@@ -1,12 +1,12 @@
-## CineDeck Pro ${TAG}
+## Civet TV Pro ${TAG}
 
-> **CineDeck** is a modern, lightweight, hardware-accelerated streaming client purpose-built for Android TV, Google TV, and Fire TV devices.
+> **Civet TV** is a modern, lightweight, hardware-accelerated streaming client purpose-built for Android TV, Google TV, and Fire TV devices.
 
 ---
 
 ### Quick Download
-* **Direct APK**: [app-release.apk](https://github.com/10xvick/cinedeck-releases/releases/download/${TAG}/app-release.apk) (${APK_MB} MB)
-* **Metadata**: [version.json](https://github.com/10xvick/cinedeck-releases/releases/download/${TAG}/version.json)
+* **Direct APK**: [app-release.apk](https://github.com/10xvick/civettv-releases/releases/download/${TAG}/app-release.apk) (${APK_MB} MB)
+* **Metadata**: [version.json](https://github.com/10xvick/civettv-releases/releases/download/${TAG}/version.json)
 * **Contract Hash**: `${HASH}`
 * **Version Code**: `${COUNT}`
 
@@ -23,7 +23,7 @@
 | **Device Coverage** | **~97%+ of all active Android TV devices worldwide** | Fully verified on both leanback and touch-enabled devices |
 
 #### CPU Architectures (Universal APK)
-CineDeck is packaged as a universal architecture-agnostic APK. All video and audio decoding is driven through Android's native hardware `MediaCodec` pipeline via AndroidX Media3 without bundled native `.so` bloat. A single APK file runs across all platforms:
+Civet TV is packaged as a universal architecture-agnostic APK. All video and audio decoding is driven through Android's native hardware `MediaCodec` pipeline via AndroidX Media3 without bundled native `.so` bloat. A single APK file runs across all platforms:
 * **ARM 64-bit (`arm64-v8a`)**: Nvidia Shield TV, Chromecast with Google TV (4K), modern Fire TV Cube, Sony/TCL Google TVs.
 * **ARM 32-bit (`armeabi-v7a`)**: Budget Android TV boxes, Fire TV Stick Lite / 4K (older models), Amlogic/Allwinner/Rockchip chips.
 * **x86_64 (`x86_64`)**: Waydroid, Android-x86 PC setups, and 64-bit desktop emulators.
@@ -50,7 +50,7 @@ CineDeck is packaged as a universal architecture-agnostic APK. All video and aud
 2. In your TV's Settings, go to **Security & Restrictions** (or **Developer Options**) > **Install Unknown Apps**, and grant permission to **Downloader**.
 3. Open **Downloader** and enter the direct APK URL:
    ```
-   https://github.com/10xvick/cinedeck-releases/releases/download/${TAG}/app-release.apk
+   https://github.com/10xvick/civettv-releases/releases/download/${TAG}/app-release.apk
    ```
 4. Once downloaded, select **Install**.
 
