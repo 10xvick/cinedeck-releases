@@ -1,6 +1,6 @@
-## Civet TV Pro ${TAG}
+## Civet ${TAG}
 
-> **Civet TV** is a modern, lightweight, hardware-accelerated streaming client purpose-built for Android TV, Google TV, and Fire TV devices.
+> **Civet** is a modern, lightweight, hardware-accelerated streaming client purpose-built for Android TV, Google TV, and Fire TV devices.
 
 ---
 
