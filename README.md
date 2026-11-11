@@ -1,14 +1,14 @@
-## Civet ${TAG}
+## Civet v1.0.83
 
 > **Civet** is a modern, lightweight, hardware-accelerated streaming client purpose-built for Android TV, Google TV, and Fire TV devices.
 
 ---
 
 ### Quick Download
-* **Direct APK**: [app-release.apk](https://github.com/10xvick/civettv-releases/releases/download/${TAG}/app-release.apk) (${APK_MB} MB)
-* **Metadata**: [version.json](https://github.com/10xvick/civettv-releases/releases/download/${TAG}/version.json)
-* **Contract Hash**: `${HASH}`
-* **Version Code**: `${COUNT}`
+* **Direct APK**: [civet.apk](https://github.com/10xvick/civettv-releases/releases/download/v1.0.83/civet.apk) (2.32 MB)
+* **Metadata**: [version.json](https://github.com/10xvick/civettv-releases/releases/download/v1.0.83/version.json)
+* **Contract Hash**: `189cbf54`
+* **Version Code**: `83`
 
 ---
 
@@ -50,7 +50,7 @@ Civet TV is packaged as a universal architecture-agnostic APK. All video and aud
 2. In your TV's Settings, go to **Security & Restrictions** (or **Developer Options**) > **Install Unknown Apps**, and grant permission to **Downloader**.
 3. Open **Downloader** and enter the direct APK URL:
    ```
-   https://github.com/10xvick/civettv-releases/releases/download/${TAG}/app-release.apk
+   https://github.com/10xvick/civettv-releases/releases/download/v1.0.83/civet.apk
    ```
 4. Once downloaded, select **Install**.
 
@@ -58,15 +58,15 @@ Civet TV is packaged as a universal architecture-agnostic APK. All video and aud
 Ensure ADB debugging is enabled on your TV:
 ```bash
 adb connect <YOUR_TV_IP_ADDRESS>:5555
-adb install -r app-release.apk
+adb install -r civet.apk
 ```
 
 ---
 
 ### Integrity & Checksums
-* **Filename**: `app-release.apk`
-* **File Size**: `${APK_BYTES} bytes` (${APK_MB} MiB)
+* **Filename**: `civet.apk`
+* **File Size**: `2436843 bytes` (2.32 MiB)
 * **SHA-256 Checksum**:
   ```
-  ${APK_SHA}
+  319a4375d5a4253c9ea83955206cf86ca0bc37acb79cd0af7f410e2a78db3882
   ```

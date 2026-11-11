@@ -2,7 +2,7 @@
   "contractHash": "189cbf54",
   "versionName": "1.0.83",
   "versionCode": 83,
-  "apkDownloadUrl": "https://github.com/10xvick/civettv-releases/releases/download/v1.0.83/app-release.apk",
+  "apkDownloadUrl": "https://github.com/10xvick/civettv-releases/releases/download/v1.0.83/civet.apk",
   "releaseNotes": [
     "Automated release from commit 189cbf54",
     "Native hardware-accelerated playback and stability enhancements.",
