@@ -1,14 +1,14 @@
-## CineDeck Pro v1.0.76
+## CineDeck Pro ${TAG}
 
 > **CineDeck** is a modern, lightweight, hardware-accelerated streaming client purpose-built for Android TV, Google TV, and Fire TV devices.
 
 ---
 
 ### Quick Download
-* **Direct APK**: [app-release.apk](https://github.com/10xvick/cinedeck-releases/releases/download/v1.0.76/app-release.apk) (2.32 MB)
-* **Metadata**: [version.json](https://github.com/10xvick/cinedeck-releases/releases/download/v1.0.76/version.json)
-* **Contract Hash**: `8b85b258`
-* **Version Code**: `76`
+* **Direct APK**: [app-release.apk](https://github.com/10xvick/cinedeck-releases/releases/download/${TAG}/app-release.apk) (${APK_MB} MB)
+* **Metadata**: [version.json](https://github.com/10xvick/cinedeck-releases/releases/download/${TAG}/version.json)
+* **Contract Hash**: `${HASH}`
+* **Version Code**: `${COUNT}`
 
 ---
 
@@ -50,7 +50,7 @@ CineDeck is packaged as a universal architecture-agnostic APK. All video and aud
 2. In your TV's Settings, go to **Security & Restrictions** (or **Developer Options**) > **Install Unknown Apps**, and grant permission to **Downloader**.
 3. Open **Downloader** and enter the direct APK URL:
    ```
-   https://github.com/10xvick/cinedeck-releases/releases/download/v1.0.76/app-release.apk
+   https://github.com/10xvick/cinedeck-releases/releases/download/${TAG}/app-release.apk
    ```
 4. Once downloaded, select **Install**.
 
@@ -65,9 +65,8 @@ adb install -r app-release.apk
 
 ### Integrity & Checksums
 * **Filename**: `app-release.apk`
-* **File Size**: `2,435,431 bytes` (2.32 MiB)
+* **File Size**: `${APK_BYTES} bytes` (${APK_MB} MiB)
 * **SHA-256 Checksum**:
   ```
-  51a651700948f25378f24ae5fe221ebfde1c749b95e9f2f3854f81d88bf39ca9
+  ${APK_SHA}
   ```
-
