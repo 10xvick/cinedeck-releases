@@ -1,12 +1,12 @@
 {
-  "contractHash": "07529fd3",
-  "versionName": "1.0.89",
-  "versionCode": 89,
-  "apkDownloadUrl": "https://github.com/10xvick/civettv-releases/releases/download/v1.0.89/civet.apk",
+  "contractHash": "3a88bd75",
+  "versionName": "1.0.90",
+  "versionCode": 90,
+  "apkDownloadUrl": "https://github.com/10xvick/civettv-releases/releases/download/v1.0.90/civet.apk",
   "releaseNotes": [
-    "Automated release from commit 07529fd3",
+    "Automated release from commit 3a88bd75",
     "Native hardware-accelerated playback and stability enhancements.",
     "Dynamic audio focus and power management improvements."
   ],
-  "publishedAt": "2026-11-13T03:50:59Z"
+  "publishedAt": "2026-11-13T06:01:37Z"
 }
